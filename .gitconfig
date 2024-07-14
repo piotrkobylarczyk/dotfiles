@@ -1,0 +1,11 @@
+[user]
+	name = Piotr Kobylarczyk
+	email = p790645290@gmail.com
+[core]
+	editor = nvim
+[alias]
+	st = status -s
+	sta = status
+	br = branch
+	com = commit -m
+	lg = log --all --graph --format=oneline
